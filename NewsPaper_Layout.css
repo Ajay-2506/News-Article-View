@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    border-box : 0;
+
+}
+
+.head{
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    font-size: 20px;
+
+}
+h1{
+    font-size: 50px;
+}
+.body{
+    padding: 20px;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: lightslategray;
+}
+
+.news{
+    width: 65%;
+    background-color: white;
+    font-size: 20px;
+    
+
+}
+h4{
+    font-size: 25px;
+}
+.big_pic{
+    width: 100%;
+}
+
+.small{
+    width: 25%;
+    font-size: 20px;
+    background-color: white;
+}
+.small_pic{
+    background-size: cover ;
+    width: 100%;
+}
+
+.position{
+    padding : 25px;
+    text-align: bottom;
+}
